@@ -26,7 +26,7 @@ const options = {
   threshold: 1.0
 }
 
-const myComponent = () => (
+const YourComponent = () => (
   <>
     <ReactCacheImage 
       src={yourImg} 
