@@ -8,7 +8,6 @@ Cache your images 💵
 
 ```javascript
 
-// import xmlion
 import { ReactCacheImage } from 'react-cache-image';
 
 // create a lion
