@@ -10,7 +10,6 @@ Cache your images 💵
 
 import { ReactCacheImage } from 'react-cache-image';
 
-// create a lion
 <ReactCacheImage src={yourImg} className="my-element" />
 
 ```
