@@ -12,7 +12,7 @@ npm install react-cache-image
 
 ## Motivation
 
-You don't need to fetch your images if they aren't viewable when the page loads. This library takes advantage of the [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) and loads your images based on the target element with an ancestor element. 
+You don't need to fetch your images if they aren't viewable when the page loads. This is also different than brower image caching. If you have a set of dynamic images that change over time relying on browser caching may not be the best solution. This library takes advantage of the [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) and loads your images based on the target element with an ancestor element. 
 
 ## Usage
 
